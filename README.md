@@ -26,8 +26,8 @@
 
 ### 📈 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=butterkookies&show_icons=true&theme=pastel&hide_border=true&bg_color=ffffff00" alt="butterkookies's GitHub stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=butterkookies&layout=compact&theme=pastel&hide_border=true&bg_color=ffffff00" alt="Top Languages" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=butterkookies&theme=pastel&hide_border=true&background=ffffff00" alt="GitHub Streak" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=butterkookies&theme=default" alt="Profile Details" width="48%"/>
 </div>
 
 <br/>
