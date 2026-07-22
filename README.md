@@ -20,7 +20,7 @@
 
 **Hey there! I'm butterkookies**
 
-I'm a minimalist & playful developer exploring code, learning new technologies, and building cool things. By day, I pretend to understand the universe. By night, I write Python scripts to automate myself out of doing actual work. When I'm not coding, I'm usually crashing helicopters in GTA V or treating my Clash of Clans village like a highly stressful Fortune 500 company.
+A minimalist & playful developer exploring code, learning new technologies, and building cool things.
 
 <br clear="both"/>
 <br/>
@@ -31,9 +31,9 @@ I'm a minimalist & playful developer exploring code, learning new technologies, 
 <!-- FLAME IMAGE PLACEHOLDER -->
 <img align="right" width="120" src="https://via.placeholder.com/150/0d1117/ffffff?text=Flame" alt="Flame" style="margin-left: 20px;" />
 
-- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="16" /> **FILEGHOST** &nbsp;&nbsp; Secure file sharing, because some code needs to self-destruct gracefully.
-- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="16" /> **GEN GHOST V1** &nbsp;&nbsp; A Discord bot that manages my server better than I manage my sleep schedule.
-- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="16" /> **QN DOCS** &nbsp;&nbsp; RAG-based AI to read text files for me, because reading is hard.
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="16" /> **Project 1** &nbsp;&nbsp; Description for your first project goes here.
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="16" /> **Project 2** &nbsp;&nbsp; Description for your second project goes here.
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="16" /> **Project 3** &nbsp;&nbsp; Description for your third project goes here.
 
 <br clear="both"/>
 <br/>
