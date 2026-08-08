@@ -1,65 +1,52 @@
 <div align="center">
-  <!-- BANNER IMAGE PLACEHOLDER -->
-  <img src="https://via.placeholder.com/800x250/0d1117/ffffff?text=Header+Banner+Placeholder" alt="Banner" />
-  
-  <br/><br/>
-  
-  <!-- BADGES -->
-  <a href="#"><img src="https://img.shields.io/badge/Stars-11-black?style=for-the-badge&logoColor=white" alt="Stars" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Forks-0-black?style=for-the-badge&logoColor=white" alt="Forks" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Followers-3-black?style=for-the-badge&logoColor=white" alt="Followers" /></a>
+  <img src="assets/header.svg" width="100%" alt="Andrei John Geronimo — butterkookies" />
 </div>
 
-<br/>
+<p align="center">
+  <a href="https://github.com/butterkookies?tab=followers"><img src="https://img.shields.io/github/followers/butterkookies?label=follow&style=flat-square&color=C67C4E&labelColor=2B2118" alt="GitHub followers" /></a>
+  <a href="https://github.com/butterkookies?tab=repositories"><img src="https://img.shields.io/badge/explore-my_repositories-C67C4E?style=flat-square&labelColor=2B2118" alt="Explore my repositories" /></a>
+</p>
 
-### 🔗 Know About Me
-<hr/>
+I’m **Andrei**, a developer who enjoys turning ambitious ideas into focused, tactile software. I care about local-first experiences, thoughtful interfaces, and tools that stay out of the user’s way.
 
-<!-- BRAIN IMAGE PLACEHOLDER -->
-<img align="left" width="150" src="https://via.placeholder.com/150/0d1117/ffffff?text=Brain" alt="Brain" style="margin-right: 20px;" />
+Right now I’m building **CiaNotes** — an offline-first native notebook with handwriting, rich text, source-backed PDF editing, and a custom portable file format. It is where I explore the seam between polished React interfaces and systems work in Rust.
 
-**Hey there! I'm butterkookies**
+```text
+current focus  →  desktop apps · local-first software · calm interfaces
+learning loop  →  build it · break it · understand it · make it feel simple
+small belief   →  good tools should give attention back, not ask for more
+```
 
-A minimalist & playful developer exploring code, learning new technologies, and building cool things.
+## Things I’ve built
 
-<br clear="both"/>
-<br/>
+| Project | What it is | Built with |
+| :--- | :--- | :--- |
+| [**do.**](https://github.com/butterkookies/Do-CLI) · [live app](https://do-cli.vercel.app) | A keyboard-first task manager with a CLI aesthetic and GitHub-style activity heatmap. | Next.js · TypeScript · Supabase |
+| [**TrimOS**](https://github.com/butterkookies/TrimOS) | A terminal-based Windows optimizer with live performance graphs, service profiles, and reversible snapshots. | Python · Textual · psutil |
+| [**SecondBrain**](https://github.com/butterkookies/SecondBrain) | A personal knowledge system for capturing, organizing, and resurfacing notes and ideas. | Python |
+| [**Taurus Bike Shop**](https://github.com/butterkookies/OOP-TaurusBikeShop) | A full e-commerce and admin system built as an OOP and database capstone. | C# · T-SQL · HTML/CSS |
 
-### 🔗 Top Projects (built to avoid manual labor)
-<hr/>
+## My workbench
 
-<!-- FLAME IMAGE PLACEHOLDER -->
-<img align="right" width="120" src="https://via.placeholder.com/150/0d1117/ffffff?text=Flame" alt="Flame" style="margin-left: 20px;" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,rust,tauri,python,cs,java&theme=dark" alt="TypeScript, React, Next.js, Rust, Tauri, Python, C sharp, and Java" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=postgres,sqlite,supabase,html,css,git,github,vscode&theme=dark" alt="PostgreSQL, SQLite, Supabase, HTML, CSS, Git, GitHub, and VS Code" />
+</p>
 
-- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="16" /> **Project 1** &nbsp;&nbsp; Description for your first project goes here.
-- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="16" /> **Project 2** &nbsp;&nbsp; Description for your second project goes here.
-- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="16" /> **Project 3** &nbsp;&nbsp; Description for your third project goes here.
-
-<br clear="both"/>
-<br/>
-
-### 🔗 Connect
-<hr/>
+## A little signal in the noise
 
 <div align="center">
-  <a href="#"><img src="https://img.shields.io/badge/GITHUB-black?style=for-the-badge&logo=github&logoColor=white" alt="Github" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/LINKEDIN-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/GMAIL-black?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/RESUME-black?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume" /></a>
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=butterkookies&theme=github_dark" alt="Andrei's GitHub stats" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=butterkookies&theme=github_dark" alt="Languages used across Andrei's public repositories" />
 </div>
 
-<br/>
-
-> Code is never finished. It only becomes slightly less terrible over time.
->
-> Every commit I make is essentially just a small, desperate apology to my future self. Someday I will return to this codebase, look at the spaghetti I've written, and wonder who let me anywhere near a keyboard.
-
-<br/>
-
-### 🔗 Contribution
-<hr/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/butterkookies/butterkookies/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/butterkookies/butterkookies/output/github-contribution-grid-snake.svg" />
+  <img width="100%" alt="Contribution graph animated as a snake" src="https://raw.githubusercontent.com/butterkookies/butterkookies/output/github-contribution-grid-snake.svg" />
+</picture>
 
 <div align="center">
-  <!-- DYNAMIC CONTRIBUTION GRAPH -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=butterkookies&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true&hide_title=true" alt="Contribution Graph" />
+  <sub>Thanks for stopping by. If something here sparks an idea, open an issue or say hello through GitHub.</sub>
 </div>
