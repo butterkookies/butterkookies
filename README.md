@@ -9,7 +9,7 @@
 
 I’m **Andrei**, a developer who enjoys turning ambitious ideas into focused, tactile software. I care about local-first experiences, thoughtful interfaces, and tools that stay out of the user’s way.
 
-Right now I’m building **CiaNotes** — an offline-first native notebook with handwriting, rich text, source-backed PDF editing, and a custom portable file format. It is where I explore the seam between polished React interfaces and systems work in Rust.
+Right now I’m building **CiaNotes** — an offline-first native notebook with handwriting, rich text, source-backed PDF editing, and a custom portable file format for my girlfriend. It is where I explore the seam between polished React interfaces and systems work in Rust.
 
 ```text
 current focus  →  desktop apps · local-first software · calm interfaces
