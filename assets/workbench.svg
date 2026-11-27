@@ -1,0 +1,152 @@
+<svg width="1200" height="286" viewBox="0 0 1200 286" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="wb-title wb-desc">
+  <title id="wb-title">Andrei's Workbench — Tech Stack</title>
+  <desc id="wb-desc">Grouped overview of interfaces, 3D graphics, backend systems, databases, and AI tools used across projects.</desc>
+  <defs>
+    <linearGradient id="wbBg" x1="0" y1="0" x2="1200" y2="286" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#15100C"/>
+      <stop offset="0.55" stop-color="#1B140F"/>
+      <stop offset="1" stop-color="#231912"/>
+    </linearGradient>
+    <pattern id="wbGrid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" stroke="#F4DAC0" stroke-opacity="0.036"/>
+    </pattern>
+    <clipPath id="wbFrame">
+      <rect width="1200" height="286" rx="24"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#wbFrame)">
+    <rect width="1200" height="286" fill="url(#wbBg)"/>
+    <rect width="1200" height="286" fill="url(#wbGrid)"/>
+    <g transform="translate(52 30)">
+      <rect width="352" height="226" rx="16" fill="#120D0A" stroke="#E8B88A" stroke-opacity="0.15" stroke-width="1"/>
+      <circle cx="24" cy="30" r="4" fill="#F0C69A"/>
+      <text x="38" y="34" fill="#F0C69A" font-family="'SFMono-Regular', ui-monospace, Consolas, 'Liberation Mono', Menlo, monospace" font-size="11.5" font-weight="600" letter-spacing="1.8">01 · INTERFACES &amp; 3D</text>
+      <line x1="20" y1="54" x2="332" y2="54" stroke="#E8B88A" stroke-opacity="0.11" stroke-width="1"/>
+      <g transform="translate(20 76)">
+        <rect width="108" height="34" rx="10" fill="#1F1712" stroke="#E8B88A" stroke-opacity="0.18" stroke-width="1"/>
+        <circle cx="13" cy="17" r="2.7" fill="#F0C69A" opacity="0.9"/>
+        <text x="23" y="21.5" fill="#F1E0CE" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500">TypeScript</text>
+      </g>
+      <g transform="translate(136 76)">
+        <rect width="93" height="34" rx="10" fill="#1F1712" stroke="#E8B88A" stroke-opacity="0.18" stroke-width="1"/>
+        <circle cx="13" cy="17" r="2.7" fill="#F0C69A" opacity="0.9"/>
+        <text x="23" y="21.5" fill="#F1E0CE" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500">React 19</text>
+      </g>
+      <g transform="translate(237 76)">
+        <rect width="86" height="34" rx="10" fill="#1F1712" stroke="#E8B88A" stroke-opacity="0.18" stroke-width="1"/>
+        <circle cx="13" cy="17" r="2.7" fill="#F0C69A" opacity="0.9"/>
+        <text x="23" y="21.5" fill="#F1E0CE" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500">Next.js</text>
+      </g>
+      <g transform="translate(20 122)">
+        <rect width="138" height="34" rx="10" fill="#1F1712" stroke="#E8B88A" stroke-opacity="0.18" stroke-width="1"/>
+        <circle cx="13" cy="17" r="2.7" fill="#F0C69A" opacity="0.9"/>
+        <text x="23" y="21.5" fill="#F1E0CE" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500">Three.js / R3F</text>
+      </g>
+      <g transform="translate(166 122)">
+        <rect width="123" height="34" rx="10" fill="#1F1712" stroke="#E8B88A" stroke-opacity="0.18" stroke-width="1"/>
+        <circle cx="13" cy="17" r="2.7" fill="#F0C69A" opacity="0.9"/>
+        <text x="23" y="21.5" fill="#F1E0CE" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500">Tailwind CSS</text>
+      </g>
+      <g transform="translate(20 168)">
+        <rect width="64" height="34" rx="10" fill="#1F1712" stroke="#E8B88A" stroke-opacity="0.18" stroke-width="1"/>
+        <circle cx="13" cy="17" r="2.7" fill="#F0C69A" opacity="0.9"/>
+        <text x="23" y="21.5" fill="#F1E0CE" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500">Vite</text>
+      </g>
+      <g transform="translate(92 168)">
+        <rect width="108" height="34" rx="10" fill="#1F1712" stroke="#E8B88A" stroke-opacity="0.18" stroke-width="1"/>
+        <circle cx="13" cy="17" r="2.7" fill="#F0C69A" opacity="0.9"/>
+        <text x="23" y="21.5" fill="#F1E0CE" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500">HTML &amp; CSS</text>
+      </g>
+    </g>
+    <g transform="translate(424 30)">
+      <rect width="352" height="226" rx="16" fill="#120D0A" stroke="#E8B88A" stroke-opacity="0.15" stroke-width="1"/>
+      <circle cx="24" cy="30" r="4" fill="#D48A52"/>
+      <text x="38" y="34" fill="#D48A52" font-family="'SFMono-Regular', ui-monospace, Consolas, 'Liberation Mono', Menlo, monospace" font-size="11.5" font-weight="600" letter-spacing="1.8">02 · SYSTEMS &amp; BACKEND</text>
+      <line x1="20" y1="54" x2="332" y2="54" stroke="#E8B88A" stroke-opacity="0.11" stroke-width="1"/>
+      <g transform="translate(20 76)">
+        <rect width="78" height="34" rx="10" fill="#1F1712" stroke="#E8B88A" stroke-opacity="0.18" stroke-width="1"/>
+        <circle cx="13" cy="17" r="2.7" fill="#D48A52" opacity="0.9"/>
+        <text x="23" y="21.5" fill="#F1E0CE" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500">Python</text>
+      </g>
+      <g transform="translate(106 76)">
+        <rect width="86" height="34" rx="10" fill="#1F1712" stroke="#E8B88A" stroke-opacity="0.18" stroke-width="1"/>
+        <circle cx="13" cy="17" r="2.7" fill="#D48A52" opacity="0.9"/>
+        <text x="23" y="21.5" fill="#F1E0CE" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500">FastAPI</text>
+      </g>
+      <g transform="translate(200 76)">
+        <rect width="86" height="34" rx="10" fill="#1F1712" stroke="#E8B88A" stroke-opacity="0.18" stroke-width="1"/>
+        <circle cx="13" cy="17" r="2.7" fill="#D48A52" opacity="0.9"/>
+        <text x="23" y="21.5" fill="#F1E0CE" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500">Node.js</text>
+      </g>
+      <g transform="translate(20 122)">
+        <rect width="64" height="34" rx="10" fill="#1F1712" stroke="#E8B88A" stroke-opacity="0.18" stroke-width="1"/>
+        <circle cx="13" cy="17" r="2.7" fill="#D48A52" opacity="0.9"/>
+        <text x="23" y="21.5" fill="#F1E0CE" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500">Rust</text>
+      </g>
+      <g transform="translate(92 122)">
+        <rect width="71" height="34" rx="10" fill="#1F1712" stroke="#E8B88A" stroke-opacity="0.18" stroke-width="1"/>
+        <circle cx="13" cy="17" r="2.7" fill="#D48A52" opacity="0.9"/>
+        <text x="23" y="21.5" fill="#F1E0CE" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500">Tauri</text>
+      </g>
+      <g transform="translate(171 122)">
+        <rect width="49" height="34" rx="10" fill="#1F1712" stroke="#E8B88A" stroke-opacity="0.18" stroke-width="1"/>
+        <circle cx="13" cy="17" r="2.7" fill="#D48A52" opacity="0.9"/>
+        <text x="23" y="21.5" fill="#F1E0CE" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500">C#</text>
+      </g>
+      <g transform="translate(20 168)">
+        <rect width="64" height="34" rx="10" fill="#1F1712" stroke="#E8B88A" stroke-opacity="0.18" stroke-width="1"/>
+        <circle cx="13" cy="17" r="2.7" fill="#D48A52" opacity="0.9"/>
+        <text x="23" y="21.5" fill="#F1E0CE" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500">Java</text>
+      </g>
+      <g transform="translate(92 168)">
+        <rect width="138" height="34" rx="10" fill="#1F1712" stroke="#E8B88A" stroke-opacity="0.18" stroke-width="1"/>
+        <circle cx="13" cy="17" r="2.7" fill="#D48A52" opacity="0.9"/>
+        <text x="23" y="21.5" fill="#F1E0CE" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500">REST &amp; OpenXML</text>
+      </g>
+    </g>
+    <g transform="translate(796 30)">
+      <rect width="352" height="226" rx="16" fill="#120D0A" stroke="#E8B88A" stroke-opacity="0.15" stroke-width="1"/>
+      <circle cx="24" cy="30" r="4" fill="#78B3A0"/>
+      <text x="38" y="34" fill="#78B3A0" font-family="'SFMono-Regular', ui-monospace, Consolas, 'Liberation Mono', Menlo, monospace" font-size="11.5" font-weight="600" letter-spacing="1.8">03 · DATA, AI &amp; CRAFT</text>
+      <line x1="20" y1="54" x2="332" y2="54" stroke="#E8B88A" stroke-opacity="0.11" stroke-width="1"/>
+      <g transform="translate(20 76)">
+        <rect width="108" height="34" rx="10" fill="#1F1712" stroke="#E8B88A" stroke-opacity="0.18" stroke-width="1"/>
+        <circle cx="13" cy="17" r="2.7" fill="#78B3A0" opacity="0.9"/>
+        <text x="23" y="21.5" fill="#F1E0CE" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500">PostgreSQL</text>
+      </g>
+      <g transform="translate(136 76)">
+        <rect width="93" height="34" rx="10" fill="#1F1712" stroke="#E8B88A" stroke-opacity="0.18" stroke-width="1"/>
+        <circle cx="13" cy="17" r="2.7" fill="#78B3A0" opacity="0.9"/>
+        <text x="23" y="21.5" fill="#F1E0CE" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500">Supabase</text>
+      </g>
+      <g transform="translate(237 76)">
+        <rect width="78" height="34" rx="10" fill="#1F1712" stroke="#E8B88A" stroke-opacity="0.18" stroke-width="1"/>
+        <circle cx="13" cy="17" r="2.7" fill="#78B3A0" opacity="0.9"/>
+        <text x="23" y="21.5" fill="#F1E0CE" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500">SQLite</text>
+      </g>
+      <g transform="translate(20 122)">
+        <rect width="108" height="34" rx="10" fill="#1F1712" stroke="#E8B88A" stroke-opacity="0.18" stroke-width="1"/>
+        <circle cx="13" cy="17" r="2.7" fill="#78B3A0" opacity="0.9"/>
+        <text x="23" y="21.5" fill="#F1E0CE" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500">Gemini API</text>
+      </g>
+      <g transform="translate(136 122)">
+        <rect width="108" height="34" rx="10" fill="#1F1712" stroke="#E8B88A" stroke-opacity="0.18" stroke-width="1"/>
+        <circle cx="13" cy="17" r="2.7" fill="#78B3A0" opacity="0.9"/>
+        <text x="23" y="21.5" fill="#F1E0CE" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500">Notion API</text>
+      </g>
+      <g transform="translate(20 168)">
+        <rect width="123" height="34" rx="10" fill="#1F1712" stroke="#E8B88A" stroke-opacity="0.18" stroke-width="1"/>
+        <circle cx="13" cy="17" r="2.7" fill="#78B3A0" opacity="0.9"/>
+        <text x="23" y="21.5" fill="#F1E0CE" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500">Git &amp; GitHub</text>
+      </g>
+      <g transform="translate(151 168)">
+        <rect width="145" height="34" rx="10" fill="#1F1712" stroke="#E8B88A" stroke-opacity="0.18" stroke-width="1"/>
+        <circle cx="13" cy="17" r="2.7" fill="#78B3A0" opacity="0.9"/>
+        <text x="23" y="21.5" fill="#F1E0CE" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500">PWA · Tailscale</text>
+      </g>
+    </g>
+  </g>
+
+  <rect x="1" y="1" width="1198" height="284" rx="23" stroke="#E8B88A" stroke-opacity="0.2" stroke-width="1.5"/>
+</svg>

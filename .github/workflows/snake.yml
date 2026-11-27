@@ -1,4 +1,4 @@
-name: Generate contribution snake
+name: Update profile visuals
 
 on:
   push:
@@ -15,15 +15,23 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
-      - name: Generate light and dark contribution snakes
+      - name: Checkout repository
+        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+
+      - name: Generate warm-espresso contribution snakes
         uses: Platane/snk/svg-only@d8f6715049803e982ee5ff501b6b9b7d5deeb09b # v3
         with:
           github_user_name: butterkookies
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%23E4A574
+            dist/github-contribution-grid-snake.svg?color_snake=%23B86B38&color_dots=%23f2eae2,%23e8cea8,%23d69e68,%23b86e3c,%237d411c
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%23F0C69A&color_dots=%231f1712,%234a301f,%237c4b2b,%23b86e3c,%23f0c69a
 
-      - name: Publish generated SVGs
+      - name: Generate live GitHub Signal SVG
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 .github/scripts/generate_signal.py --username butterkookies --output dist/github-signal.svg
+
+      - name: Publish generated SVGs to output branch
         uses: crazy-max/ghaction-github-pages@df5cc2bfa78282ded844b354faee141f06b41865 # v4
         with:
           build_dir: dist
