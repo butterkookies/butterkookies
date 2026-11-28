@@ -21,100 +21,17 @@ Outside coursework, I bridge product design, full-stack engineering, and applied
 **Design & Frontend**
 
 <p align="left">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/icons/typescript-dark.svg" />
-    <img src="assets/icons/typescript-light.svg" width="22" height="22" alt="TypeScript" title="TypeScript" />
-  </picture>&nbsp;&nbsp;&nbsp;&nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/icons/react-dark.svg" />
-    <img src="assets/icons/react-light.svg" width="22" height="22" alt="React" title="React" />
-  </picture>&nbsp;&nbsp;&nbsp;&nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/icons/nextdotjs-dark.svg" />
-    <img src="assets/icons/nextdotjs-light.svg" width="22" height="22" alt="Next.js" title="Next.js" />
-  </picture>&nbsp;&nbsp;&nbsp;&nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/icons/tailwindcss-dark.svg" />
-    <img src="assets/icons/tailwindcss-light.svg" width="22" height="22" alt="Tailwind CSS" title="Tailwind CSS" />
-  </picture>&nbsp;&nbsp;&nbsp;&nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/icons/threedotjs-dark.svg" />
-    <img src="assets/icons/threedotjs-light.svg" width="22" height="22" alt="Three.js" title="Three.js" />
-  </picture>&nbsp;&nbsp;&nbsp;&nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/icons/vite-dark.svg" />
-    <img src="assets/icons/vite-light.svg" width="22" height="22" alt="Vite" title="Vite" />
-  </picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/typescript-dark.svg" /><img src="assets/icons/typescript-light.svg" width="108" height="60" alt="TypeScript" /></picture><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/react-dark.svg" /><img src="assets/icons/react-light.svg" width="108" height="60" alt="React" /></picture><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/nextdotjs-dark.svg" /><img src="assets/icons/nextdotjs-light.svg" width="108" height="60" alt="Next.js" /></picture><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/tailwindcss-dark.svg" /><img src="assets/icons/tailwindcss-light.svg" width="108" height="60" alt="Tailwind CSS" /></picture><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/threedotjs-dark.svg" /><img src="assets/icons/threedotjs-light.svg" width="108" height="60" alt="Three.js" /></picture><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/vite-dark.svg" /><img src="assets/icons/vite-light.svg" width="108" height="60" alt="Vite" /></picture>
 </p>
-
-<sub>TypeScript, React, Next.js, Tailwind CSS, Three.js, Vite</sub>
-
-<br />
 
 **Backend & Systems**
 
 <p align="left">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/icons/python-dark.svg" />
-    <img src="assets/icons/python-light.svg" width="22" height="22" alt="Python" title="Python" />
-  </picture>&nbsp;&nbsp;&nbsp;&nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/icons/fastapi-dark.svg" />
-    <img src="assets/icons/fastapi-light.svg" width="22" height="22" alt="FastAPI" title="FastAPI" />
-  </picture>&nbsp;&nbsp;&nbsp;&nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/icons/nodedotjs-dark.svg" />
-    <img src="assets/icons/nodedotjs-light.svg" width="22" height="22" alt="Node.js" title="Node.js" />
-  </picture>&nbsp;&nbsp;&nbsp;&nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/icons/rust-dark.svg" />
-    <img src="assets/icons/rust-light.svg" width="22" height="22" alt="Rust" title="Rust" />
-  </picture>&nbsp;&nbsp;&nbsp;&nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/icons/tauri-dark.svg" />
-    <img src="assets/icons/tauri-light.svg" width="22" height="22" alt="Tauri" title="Tauri" />
-  </picture>&nbsp;&nbsp;&nbsp;&nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/icons/dotnet-dark.svg" />
-    <img src="assets/icons/dotnet-light.svg" width="22" height="22" alt="C# / .NET" title="C# / .NET" />
-  </picture>&nbsp;&nbsp;&nbsp;&nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/icons/openjdk-dark.svg" />
-    <img src="assets/icons/openjdk-light.svg" width="22" height="22" alt="Java" title="Java" />
-  </picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/python-dark.svg" /><img src="assets/icons/python-light.svg" width="108" height="60" alt="Python" /></picture><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/fastapi-dark.svg" /><img src="assets/icons/fastapi-light.svg" width="108" height="60" alt="FastAPI" /></picture><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/nodedotjs-dark.svg" /><img src="assets/icons/nodedotjs-light.svg" width="108" height="60" alt="Node.js" /></picture><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/rust-dark.svg" /><img src="assets/icons/rust-light.svg" width="108" height="60" alt="Rust" /></picture><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/tauri-dark.svg" /><img src="assets/icons/tauri-light.svg" width="108" height="60" alt="Tauri" /></picture><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/dotnet-dark.svg" /><img src="assets/icons/dotnet-light.svg" width="108" height="60" alt="C# (.NET)" /></picture><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/openjdk-dark.svg" /><img src="assets/icons/openjdk-light.svg" width="108" height="60" alt="Java" /></picture>
 </p>
-
-<sub>Python, FastAPI, Node.js, Rust, Tauri, C# (.NET), Java</sub>
-
-<br />
 
 **AI, Data & Tooling**
 
 <p align="left">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/icons/googlegemini-dark.svg" />
-    <img src="assets/icons/googlegemini-light.svg" width="22" height="22" alt="Google Gemini" title="Google Gemini" />
-  </picture>&nbsp;&nbsp;&nbsp;&nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/icons/postgresql-dark.svg" />
-    <img src="assets/icons/postgresql-light.svg" width="22" height="22" alt="PostgreSQL" title="PostgreSQL" />
-  </picture>&nbsp;&nbsp;&nbsp;&nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/icons/supabase-dark.svg" />
-    <img src="assets/icons/supabase-light.svg" width="22" height="22" alt="Supabase" title="Supabase" />
-  </picture>&nbsp;&nbsp;&nbsp;&nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/icons/sqlite-dark.svg" />
-    <img src="assets/icons/sqlite-light.svg" width="22" height="22" alt="SQLite" title="SQLite" />
-  </picture>&nbsp;&nbsp;&nbsp;&nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/icons/notion-dark.svg" />
-    <img src="assets/icons/notion-light.svg" width="22" height="22" alt="Notion" title="Notion" />
-  </picture>&nbsp;&nbsp;&nbsp;&nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/icons/git-dark.svg" />
-    <img src="assets/icons/git-light.svg" width="22" height="22" alt="Git" title="Git" />
-  </picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/googlegemini-dark.svg" /><img src="assets/icons/googlegemini-light.svg" width="108" height="60" alt="Google Gemini" /></picture><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/postgresql-dark.svg" /><img src="assets/icons/postgresql-light.svg" width="108" height="60" alt="PostgreSQL" /></picture><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/supabase-dark.svg" /><img src="assets/icons/supabase-light.svg" width="108" height="60" alt="Supabase" /></picture><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/sqlite-dark.svg" /><img src="assets/icons/sqlite-light.svg" width="108" height="60" alt="SQLite" /></picture><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/notion-dark.svg" /><img src="assets/icons/notion-light.svg" width="108" height="60" alt="Notion API" /></picture><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/git-dark.svg" /><img src="assets/icons/git-light.svg" width="108" height="60" alt="Git" /></picture>
 </p>
-
-<sub>Google Gemini, PostgreSQL, Supabase, SQLite, Notion API, Git</sub>
